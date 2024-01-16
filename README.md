@@ -1,0 +1,2 @@
+# dmt
+Dead man trigger
